@@ -140,7 +140,7 @@ streamlit run app.py
 
 🎬 **Confira a interface do LinguaChain:**
 
-![LinguaChain Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FwNDJuanRhNWRjeDRtOG5yMDk2c3NocHZzMWtrdXVpdWRjdXA2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTVHDjLKD36gSflgC7/giphy.gif)
+![LinguaChain Demo](assets/linguachain-image.gif)
 
 *Tradução rápida e precisa com interface intuitiva*
 
